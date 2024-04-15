@@ -51,5 +51,5 @@ Review the outputs carefully to ensure that the analysis aligns with the project
 This project enables you to apply time series analysis techniques to real-world e-commerce data, providing valuable insights into user behavior and stock performance. By the end of this challenge, you should be able to predict search traffic patterns and relate these to financial events effectively.
 
 ### References
-Based on starter files and data provided as part of OSU-VIRT-AI-PT-02-2024-U-LOLC-MTTH (OSU AI Bootcamp) for Challenge 4. Remaining code based on code examples provided as part of the course.
+Based on starter files and data provided as part of OSU-VIRT-AI-PT-02-2024-U-LOLC-MTTH (OSU AI Bootcamp) for Challenge 8. Remaining code based on code examples provided as part of the course.
 
